@@ -14,16 +14,15 @@ Students have their own dedicated login portal where they can view their marks o
 
 · Frontend (User Interface) - Tkinter:
 
-Login Screen: A secure login interface for administrators and teachers to access the system.
+Login Screen: A secure login interface for administrators and teachers to access the system.<br/>
 Forms and Tables: Interactive forms for adding, updating, and deleting student records, and tables for viewing student data.
 
 · Backend (Database) - MySQL:
 
-Database Schema: Tables to store student information, including personal details, academic records, attendance, and any other relevant data.
+Database Schema: Tables to store student information, including personal details, academic records, attendance, and any other relevant data.<br/>
 SQL Queries: SQL commands to perform CRUD (Create, Read, Update, Delete) operations on the student data.
 
 · Backend (Logic) - Python:
 
 Database Connectivity: Using libraries like mysql-connector-python to connect Python with the MySQL database.
-Data Processing: Scripts to handle user inputs, process data, and interact with the database.
-Validation and Error Handling: Ensuring data integrity and providing feedback for incorrect or incomplete data entries.
+
